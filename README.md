@@ -7,7 +7,7 @@ These files are all mono and use a 32768 Hz sample rate.  That is the native sam
 
 We found that the DS could handle 5 simultaneous audio streams, which we used for up to five instrument tracks, and we set panning manually (even and odd tracks panned a bit to the left and right) for each of these streams to create a stereo spread in the music arrangement.
 
-Tom is fine with people re-using these samples for whatever purpose.  He'd like to receive credit for his work, and if you use these samples in a commercial project that generates a ton of money, he'd like to receive fair royalties.
+Tom is fine with people re-using these samples for whatever purpose.  He'd like to receive credit for his work, and if you use these samples in a commercial project that generates a ton of money, he'd like to receive fair royalties.  You can contact him directly here:  thomasrobertbailey@gmail.com
 
 Jason Rohrer  
 April 2021  
